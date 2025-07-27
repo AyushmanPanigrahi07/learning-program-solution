@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: green;
+}
+
+table {
+  margin: 0 auto; /* Center the table */
+  border-collapse: collapse;
+  border: 1px solid grey;
+}
+
+th, td {
+  border: 1px solid grey;
+  padding: 8px 20px;
+}
